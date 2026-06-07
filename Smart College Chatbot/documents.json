@@ -1,0 +1,36 @@
+[
+  {
+    "id": "16c7ab6b-61f1-4983-bbde-1893b5a7963a",
+    "title": "KOMAL CV.pdf",
+    "filename": "KOMAL CV.pdf",
+    "uploaded_by": "admin",
+    "uploaded_at": "2026-05-12 15:07:11",
+    "pages": 1,
+    "chunks": [
+      {
+        "page": 1,
+        "text": "Komal Anand LinkedIn: k o m a l- anand Email: anandkomal004@gmail.com GitHub: Komal-Anand Mobile: +91-8080510819 SKILLS \u2022 Languages: Python, C, C++, SQL, HTML/CSS, Js, Java \u2022 Tools/Platforms: MySQL, Tableau, Power BI, Excel, Jupyter, Google Colab, AWS \u2022 Soft Skills: Problem Solving, Analytical, Critical Thinking, Teamwork, Communication \u2022 Libraries: Matplotlib, Pandas, NumPy, Scikit-Learn, TensorFlow, Seaborn \u2022 Domain Skills: Data Cleaning, EDA, Statistical Analysis, Machine Learning, Data Visualization EXPERIENCE Student Explorer \u2013 Project Based Learning Aug 23 - Present \u2022 Built and implemented hands-on projects in Artificial Intelligence, Data Analytics, Cloud Computing, and Web Development using Python and modern frameworks to solve real-world problems. \u2022 Designed and developed intelligent AI chatbots and automation workflows using Botpress to improve user interaction, automate respon"
+      },
+      {
+        "page": 1,
+        "text": "solve real-world problems. \u2022 Designed and developed intelligent AI chatbots and automation workflows using Botpress to improve user interaction, automate responses, and enhance digital communication systems. \u2022 Performed data analysis using Python and SQL, including data preprocessing, cleaning, and exploratory data analysis (EDA) to extract insights and support data-driven decision-making. \u2022 Integrated APIs and cloud-based services to develop scalable applications and gain practical experience in deploying efficient, modern software solutions. PROJECTS Exploratory Data Analysis on Census 2011 (EDA) | Project Aug 25 - Dec 25 \u2022 Performed Exploratory Data Analysis (EDA) on factors such as literacy rate, gender distribution, and workforce participation to identify meaningful patterns in the data. \u2022 Applied data preprocessing techniques include data cleaning, handling missing values, and data"
+      },
+      {
+        "page": 1,
+        "text": "orce participation to identify meaningful patterns in the data. \u2022 Applied data preprocessing techniques include data cleaning, handling missing values, and data transformation to prepare the dataset for accurate analysis. \u2022 Extracted actionable insights using statistical analysis and visualization, helping to understand socio-economic indicators and demographic relationships within the dataset. \u2022 Analyzed the Census 2011 India dataset (20K+ rows) using Python to study key demographic trends and population patterns. Dress Up (Website) | Project Nov 25 - Dec 25 \u2022 Created a Developed Dress Up, a responsive web application that allows users to explore, mix, and organize different outfit combinations for better fashion planning. Integrating The Movie Database API to stream meta data for 10,000+ titles with smooth playback handling. \u2022 Designed and implemented an interactive and user-friendly i"
+      },
+      {
+        "page": 1,
+        "text": "ating The Movie Database API to stream meta data for 10,000+ titles with smooth playback handling. \u2022 Designed and implemented an interactive and user-friendly interface using modern web technologies to provide a smooth and engaging user experience across devices. \u2022 Focused on responsive design and layout optimization to ensure the website works efficiently on desktops, tablets, and mobile screens. \u2022 Implemented structured front-end components and styling to enhance usability, navigation, and overall visual appeal of the application. Scan Vault Project Link | Project June 25 - July 25 \u2022 Built a serverless receipt processing pipeline on AWS using S3, Lambda, Textract, DynamoDB, and SES to automatically process uploaded receipts. \u2022 Implemented OCR and automated data extraction using Amazon Textract to capture key information from receipt images and store it in a structured format. \u2022 Designe"
+      },
+      {
+        "page": 1,
+        "text": "mplemented OCR and automated data extraction using Amazon Textract to capture key information from receipt images and store it in a structured format. \u2022 Designed an event-driven workflow where S3 uploads trigger Lambda functions to process data, store results in DynamoDB, and send automated email notifications through SES. \u2022 Configured IAM roles, permissions, and service triggers to ensure secure, reliability, and seamless end-to-end integration across AWS services. CERTIFICATES \u2022 OCI 2025 Certified Data Science Professional | Certificate Oct 2025 \u2022 Cloud Computing AWS | Certificate July 2025 \u2022 BCG X GenAI Job Simulation | Certificate June 2025 \u2022 iHUB DivyaSampark @IIT Roorkee | Certificate Sept 2024 EDUCATION Lovely Professional University Punjab, India Bachelor of Technology - Computer Science and Engineering: CGPA: 7.3 Since August 2023 Kendriya Vidyalaya BEG Pune, Maharashtra Interme"
+      },
+      {
+        "page": 1,
+        "text": "University Punjab, India Bachelor of Technology - Computer Science and Engineering: CGPA: 7.3 Since August 2023 Kendriya Vidyalaya BEG Pune, Maharashtra Intermediate: 69% April 2022 - May 2023 Army Public School Dighi Pune, Maharashtra Matriculation: 87% April 2020 - March 2021"
+      }
+    ]
+  }
+]

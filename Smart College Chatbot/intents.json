@@ -1,0 +1,154 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hello",
+        "Hey",
+        "Good morning",
+        "Good evening"
+      ],
+      "responses": [
+        "Hello! How can I help you today?",
+        "Hi there! What college information do you need?",
+        "Hey! I am here to help with college questions."
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "See you later",
+        "Goodbye",
+        "I have to go",
+        "Talk to you later"
+      ],
+      "responses": [
+        "Goodbye! Have a great day at college!",
+        "See you later. Feel free to ask any time.",
+        "Bye! Hope your studies go well."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "Really helpful",
+        "Appreciate it",
+        "Thanks a lot"
+      ],
+      "responses": [
+        "You are welcome!",
+        "Happy to help. If you need anything else, ask me.",
+        "No problem! Good luck with your college work."
+      ]
+    },
+    {
+      "tag": "ask_courses",
+      "patterns": [
+        "What courses do you offer?",
+        "List of courses",
+        "What are the available majors?",
+        "Which subjects can I study?",
+        "Tell me about the course options"
+      ],
+      "responses": [
+        "Our college offers Computer Science, Mathematics, Physics, Business, and more.",
+        "You can choose from engineering, data science, arts, commerce, and management.",
+        "There are many courses available, including programming, design, and business studies."
+      ]
+    },
+    {
+      "tag": "ask_deadline",
+      "patterns": [
+        "What is the admission deadline?",
+        "Deadline for applications",
+        "When is the last date to apply?",
+        "Application deadline",
+        "By when should I submit the form?"
+      ],
+      "responses": [
+        "Admission deadline is May 31st for the next semester.",
+        "Please submit your application by the end of this month.",
+        "The last date to apply is usually the last day of May."
+      ]
+    },
+    {
+      "tag": "ask_fees",
+      "patterns": [
+        "How much is the tuition fee?",
+        "Fee structure",
+        "What are the college fees?",
+        "Tell me about fees",
+        "Fee details"
+      ],
+      "responses": [
+        "Tuition fees vary by course but start from around $2000 per semester.",
+        "Fees depend on the program, with most courses between $2000 and $5000 per semester.",
+        "You can check the official fee structure on the college website or ask the admission office."
+      ]
+    },
+    {
+      "tag": "ask_library",
+      "patterns": [
+        "What are the library timings?",
+        "Library hours",
+        "When does the library open?",
+        "Library schedule",
+        "Can I use the library in the evening?"
+      ],
+      "responses": [
+        "The library is open from 8 AM to 8 PM on weekdays.",
+        "You can visit the library daily from 8 AM to 8 PM.",
+        "Yes, the library stays open until 8 PM every weekday."
+      ]
+    },
+    {
+      "tag": "ask_clubs",
+      "patterns": [
+        "What clubs are there?",
+        "Student clubs",
+        "Are there any academic clubs?",
+        "Tell me about campus clubs",
+        "How do I join a club?"
+      ],
+      "responses": [
+        "We have coding, debate, drama, photography, and sports clubs.",
+        "You can join clubs for coding, art, music, and community service.",
+        "Clubs help you learn new skills and meet students with similar interests."
+      ]
+    },
+    {
+      "tag": "ask_transport",
+      "patterns": [
+        "Is there college transport?",
+        "How do I reach the campus?",
+        "Bus service",
+        "Transport facilities",
+        "Campus shuttle"
+      ],
+      "responses": [
+        "There is a college shuttle bus and local buses that stop near the campus.",
+        "You can reach the campus by the college bus or local public transport.",
+        "Transport services are available for nearby student housing areas."
+      ]
+    },
+    {
+      "tag": "noanswer",
+      "patterns": [
+        "What is the meaning of life?",
+        "Tell me a joke",
+        "I want to fly",
+        "Can you read my mind?",
+        "Translate this for me"
+      ],
+      "responses": [
+        "Sorry, I could not understand your query properly.",
+        "I am not sure about that. Can you ask something about college?",
+        "I am here to help with college questions, please try asking in a different way."
+      ]
+    }
+  ]
+}

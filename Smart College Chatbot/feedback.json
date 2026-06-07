@@ -1,0 +1,26 @@
+[
+  {
+    "id": "32182f39-4bc2-4c9d-8d01-c26d141cb474",
+    "message_id": "f5afff95-99ad-4ca9-b0e8-81650331dd7b",
+    "username": "admin",
+    "rating": "not_helpful",
+    "comment": "",
+    "timestamp": "2026-05-12 14:57:23"
+  },
+  {
+    "id": "d1e7c806-59b0-4690-a152-21b224eaad79",
+    "message_id": "949d357b-1fb7-4da8-950d-63ea3c798352",
+    "username": "admin",
+    "rating": "helpful",
+    "comment": "",
+    "timestamp": "2026-05-12 15:07:52"
+  },
+  {
+    "id": "05243ab5-7628-4bfb-8269-8980b8dfb594",
+    "message_id": "66a332a6-3e89-477d-ae8c-51eac7276c4a",
+    "username": "admin",
+    "rating": "helpful",
+    "comment": "you should improve your feedback section",
+    "timestamp": "2026-05-12 15:09:25"
+  }
+]

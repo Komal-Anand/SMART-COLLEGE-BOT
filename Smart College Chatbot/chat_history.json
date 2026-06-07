@@ -1,0 +1,762 @@
+[
+  {
+    "timestamp": "2026-05-12 14:39:23",
+    "username": "admin",
+    "user_message": "hii",
+    "bot_response": "\ud83e\udd14 I'm not sure I understood that. Could you rephrase your question?\n\nI can help with: Admissions, Fees, Courses, Exams, Results, Hostel, Library, Placements, Scholarships, Clubs & Events, Career Guidance, and more!\n\nTry asking something like:\n\u2022 'How to apply for admission?'\n\u2022 'What is the scholarship procedure?'\n\u2022 'Tell me about hostel facilities'",
+    "intent": "events_fests",
+    "confidence": 0.0405
+  },
+  {
+    "timestamp": "2026-05-12 14:39:31",
+    "username": "admin",
+    "user_message": "How to apply for admission?",
+    "bot_response": "\ud83d\udccb General Admission Process:\n\n1. **Register Online** \u2013 Fill the application form on the college portal\n2. **Submit Documents** \u2013 Academic transcripts, ID proof, passport photos\n3. **Entrance Exam** \u2013 Appear for relevant entrance test (JEE/NEET/CUET etc.) if required\n4. **Merit List** \u2013 Check cutoff and merit list on the college website\n5. **Counseling** \u2013 Attend counseling/interview session\n6. **Fee Payment** \u2013 Pay the admission fee within the deadline\n7. **Document Verification** \u2013 Submit original documents for verification\n\nTip: Always check the college's official website for exact deadlines!",
+    "intent": "admission_process",
+    "confidence": 0.7199
+  },
+  {
+    "timestamp": "2026-05-12 14:39:57",
+    "username": "admin",
+    "user_message": "What is the fee structure?",
+    "bot_response": "\ud83d\udcb0 General Fee Structure (Approximate Annual Fees \u2014 India):\n\n| Program | Government College | Private College |\n|---------|-------------------|------------------|\n| B.Tech/BE | \u20b950,000 \u2013 \u20b91.5L | \u20b980,000 \u2013 \u20b94L |\n| MBBS | \u20b915,000 \u2013 \u20b91L | \u20b910L \u2013 \u20b925L |\n| MBA | \u20b930,000 \u2013 \u20b980,000 | \u20b93L \u2013 \u20b920L |\n| BCA/BBA/B.Com | \u20b920,000 \u2013 \u20b950,000 | \u20b950,000 \u2013 \u20b91.5L |\n| M.Tech | \u20b930,000 \u2013 \u20b980,000 | \u20b91L \u2013 \u20b93L |\n| B.Sc | \u20b910,000 \u2013 \u20b930,000 | \u20b930,000 \u2013 \u20b91L |\n\n*Fees include tuition, development charges & exam fee. Hostel, mess & transport are additional.*",
+    "intent": "fee_structure",
+    "confidence": 0.9167
+  },
+  {
+    "timestamp": "2026-05-12 14:39:59",
+    "username": "admin",
+    "user_message": "What is the fee structure?",
+    "bot_response": "\ud83d\udcb0 General Fee Structure (Approximate Annual Fees \u2014 India):\n\n| Program | Government College | Private College |\n|---------|-------------------|------------------|\n| B.Tech/BE | \u20b950,000 \u2013 \u20b91.5L | \u20b980,000 \u2013 \u20b94L |\n| MBBS | \u20b915,000 \u2013 \u20b91L | \u20b910L \u2013 \u20b925L |\n| MBA | \u20b930,000 \u2013 \u20b980,000 | \u20b93L \u2013 \u20b920L |\n| BCA/BBA/B.Com | \u20b920,000 \u2013 \u20b950,000 | \u20b950,000 \u2013 \u20b91.5L |\n| M.Tech | \u20b930,000 \u2013 \u20b980,000 | \u20b91L \u2013 \u20b93L |\n| B.Sc | \u20b910,000 \u2013 \u20b930,000 | \u20b930,000 \u2013 \u20b91L |\n\n*Fees include tuition, development charges & exam fee. Hostel, mess & transport are additional.*",
+    "intent": "fee_structure",
+    "confidence": 0.9167
+  },
+  {
+    "timestamp": "2026-05-12 14:40:00",
+    "username": "admin",
+    "user_message": "What is the fee structure?",
+    "bot_response": "\ud83d\udcb0 General Fee Structure (Approximate Annual Fees \u2014 India):\n\n| Program | Government College | Private College |\n|---------|-------------------|------------------|\n| B.Tech/BE | \u20b950,000 \u2013 \u20b91.5L | \u20b980,000 \u2013 \u20b94L |\n| MBBS | \u20b915,000 \u2013 \u20b91L | \u20b910L \u2013 \u20b925L |\n| MBA | \u20b930,000 \u2013 \u20b980,000 | \u20b93L \u2013 \u20b920L |\n| BCA/BBA/B.Com | \u20b920,000 \u2013 \u20b950,000 | \u20b950,000 \u2013 \u20b91.5L |\n| M.Tech | \u20b930,000 \u2013 \u20b980,000 | \u20b91L \u2013 \u20b93L |\n| B.Sc | \u20b910,000 \u2013 \u20b930,000 | \u20b930,000 \u2013 \u20b91L |\n\n*Fees include tuition, development charges & exam fee. Hostel, mess & transport are additional.*",
+    "intent": "fee_structure",
+    "confidence": 0.9167
+  },
+  {
+    "timestamp": "2026-05-12 14:40:01",
+    "username": "admin",
+    "user_message": "What is the fee structure?",
+    "bot_response": "\ud83d\udcb0 General Fee Structure (Approximate Annual Fees \u2014 India):\n\n| Program | Government College | Private College |\n|---------|-------------------|------------------|\n| B.Tech/BE | \u20b950,000 \u2013 \u20b91.5L | \u20b980,000 \u2013 \u20b94L |\n| MBBS | \u20b915,000 \u2013 \u20b91L | \u20b910L \u2013 \u20b925L |\n| MBA | \u20b930,000 \u2013 \u20b980,000 | \u20b93L \u2013 \u20b920L |\n| BCA/BBA/B.Com | \u20b920,000 \u2013 \u20b950,000 | \u20b950,000 \u2013 \u20b91.5L |\n| M.Tech | \u20b930,000 \u2013 \u20b980,000 | \u20b91L \u2013 \u20b93L |\n| B.Sc | \u20b910,000 \u2013 \u20b930,000 | \u20b930,000 \u2013 \u20b91L |\n\n*Fees include tuition, development charges & exam fee. Hostel, mess & transport are additional.*",
+    "intent": "fee_structure",
+    "confidence": 0.9167
+  },
+  {
+    "timestamp": "2026-05-12 14:40:04",
+    "username": "admin",
+    "user_message": "Tell me about hostel facilities",
+    "bot_response": "\ud83c\udfe0 Hostel Facilities & Rules:\n\n**Facilities Provided:**\n\u2705 Furnished rooms (Single/Double/Triple sharing)\n\u2705 24/7 security & CCTV surveillance\n\u2705 Wi-Fi internet access\n\u2705 Mess facility (veg + non-veg options)\n\u2705 Common room with TV\n\u2705 Indoor games (TT, carom, chess)\n\u2705 Laundry facility\n\u2705 Medical room / first aid\n\u2705 Visitor room\n\n**Common Hostel Rules:**\n\u2022 Curfew: Boys \u2013 10 PM, Girls \u2013 9 PM (varies by college)\n\u2022 Visitors allowed only in visitor areas during specified hours\n\u2022 No alcohol, smoking, or ragging \u2014 strict action taken\n\u2022 Maintain cleanliness & noise discipline\n\u2022 Visitors of opposite gender not allowed in rooms\n\n**Admission to Hostel:**\nFill the hostel application form during college admission. Allotment is usually on a first-come, first-served or merit basis.",
+    "intent": "hostel_facilities",
+    "confidence": 0.8284
+  },
+  {
+    "timestamp": "2026-05-12 14:40:15",
+    "username": "admin",
+    "user_message": "hello",
+    "bot_response": "Hi there! I'm your college assistant. What would you like to know?",
+    "intent": "greeting",
+    "confidence": 0.9177
+  },
+  {
+    "timestamp": "2026-05-12 14:40:20",
+    "username": "admin",
+    "user_message": "How to clear backlogs?",
+    "bot_response": "\ud83d\udcdd Clearing Backlogs / Arrears:\n\n**What is a Backlog?**\nA subject you failed in the semester examination.\n\n**How to Clear It:**\n1. **Supplementary/Back Exam** \u2013 Most colleges conduct back paper exams in June\u2013July or November\u2013December\n2. **Re-Appear** \u2013 Fill the back exam form (available on student portal)\n3. **Improvement Exam** \u2013 Some universities allow improvement for low grades too\n\n**Important Rules:**\n\u2022 Number of allowed attempts varies (usually unlimited, but time-bound)\n\u2022 Maximum backlog limit for graduation: typically all subjects must be cleared within N+2 years\n\u2022 CGPA gets updated after clearing backlog\n\u2022 Some companies have a 'no active backlog' criterion for campus placements\n\n\ud83d\udca1 Consult your academic advisor or examination cell immediately after results.",
+    "intent": "backlog",
+    "confidence": 0.9157
+  },
+  {
+    "timestamp": "2026-05-12 14:42:32",
+    "username": "admin",
+    "user_message": "hello",
+    "bot_response": "Hi there! I'm your college assistant. What would you like to know?",
+    "intent": "greeting",
+    "confidence": 0.9177
+  },
+  {
+    "timestamp": "2026-05-12 14:42:39",
+    "username": "admin",
+    "user_message": "Attendance requirements",
+    "bot_response": "\ud83d\udccb Attendance Policy:\n\n**Minimum Required Attendance:** 75% in most colleges (some require 85%)\n\n**Consequences of Low Attendance:**\n\u2022 Below 75% \u2192 Debarred from appearing in semester exams\n\u2022 65\u201374% \u2192 Condonation possible with medical/valid reason (at college's discretion)\n\u2022 Below 65% \u2192 Typically detained (must repeat the semester)\n\n**Attendance Calculation:**\n```\nAttendance % = (Classes Attended / Total Classes Held) \u00d7 100\n```\n\n**Tips to Maintain Attendance:**\n\u2705 Check attendance regularly on the student portal\n\u2705 Apply for medical leave with a doctor's certificate immediately\n\u2705 Meet your class teacher/mentor if you're approaching the shortage threshold\n\n\u26a0\ufe0f Sports/cultural events, NCC/NSS activities may grant attendance as per college policy.",
+    "intent": "attendance",
+    "confidence": 0.777
+  },
+  {
+    "timestamp": "2026-05-12 14:42:51",
+    "username": "admin",
+    "user_message": "fees?",
+    "bot_response": "\ud83d\udcb0 General Fee Structure (Approximate Annual Fees \u2014 India):\n\n| Program | Government College | Private College |\n|---------|-------------------|------------------|\n| B.Tech/BE | \u20b950,000 \u2013 \u20b91.5L | \u20b980,000 \u2013 \u20b94L |\n| MBBS | \u20b915,000 \u2013 \u20b91L | \u20b910L \u2013 \u20b925L |\n| MBA | \u20b930,000 \u2013 \u20b980,000 | \u20b93L \u2013 \u20b920L |\n| BCA/BBA/B.Com | \u20b920,000 \u2013 \u20b950,000 | \u20b950,000 \u2013 \u20b91.5L |\n| M.Tech | \u20b930,000 \u2013 \u20b980,000 | \u20b91L \u2013 \u20b93L |\n| B.Sc | \u20b910,000 \u2013 \u20b930,000 | \u20b930,000 \u2013 \u20b91L |\n\n*Fees include tuition, development charges & exam fee. Hostel, mess & transport are additional.*",
+    "intent": "fee_structure",
+    "confidence": 0.9979
+  },
+  {
+    "timestamp": "2026-05-12 14:51:39",
+    "username": "admin",
+    "user_message": "How to apply for admission?",
+    "bot_response": "\ud83d\udccb General Admission Process:\n\n1. **Register Online** \u2013 Fill the application form on the college portal\n2. **Submit Documents** \u2013 Academic transcripts, ID proof, passport photos\n3. **Entrance Exam** \u2013 Appear for relevant entrance test (JEE/NEET/CUET etc.) if required\n4. **Merit List** \u2013 Check cutoff and merit list on the college website\n5. **Counseling** \u2013 Attend counseling/interview session\n6. **Fee Payment** \u2013 Pay the admission fee within the deadline\n7. **Document Verification** \u2013 Submit original documents for verification\n\nTip: Always check the college's official website for exact deadlines!",
+    "intent": "admission_process",
+    "confidence": 0.7199
+  },
+  {
+    "timestamp": "2026-05-12 14:58:27",
+    "username": "demo",
+    "user_message": "hello",
+    "bot_response": "Hey! Great to see you. Ask me anything about college life, admissions, or academics!",
+    "intent": "greeting",
+    "confidence": 0.9177
+  },
+  {
+    "timestamp": "2026-05-12 15:06:51",
+    "username": "admin",
+    "user_message": "hello",
+    "bot_response": "Hello! Welcome to SmartCollegeBot \ud83c\udf93 How can I help you today?",
+    "intent": "greeting",
+    "confidence": 0.9177
+  },
+  {
+    "timestamp": "2026-05-12 15:08:54",
+    "username": "admin",
+    "user_message": "How to check my result?",
+    "bot_response": "\ud83d\udcca How to Check Your Result:\n\n1. Visit your college/university's official website\n2. Go to the **Student Portal / Examination Section**\n3. Login with your **Enrollment Number / Registration ID**\n4. Select **Semester & Year**\n5. Download your **Grade Card / Marksheet**\n\n**Understanding Grades:**\n| Grade | Points | Meaning |\n|-------|--------|---------|\n| O | 10 | Outstanding |\n| A+ | 9 | Excellent |\n| A | 8 | Very Good |\n| B+ | 7 | Good |\n| B | 6 | Above Average |\n| C | 5 | Average |\n| F | 0 | Fail |\n\n**SGPA** = Semester Grade Point Average\n**CGPA** = Cumulative GPA across all semesters\n\n\ud83d\udca1 Worried about a result? You can apply for re-evaluation within 2 weeks of result declaration.",
+    "intent": "result",
+    "confidence": 0.9807
+  },
+  {
+    "timestamp": "2026-05-12 15:10:21",
+    "username": "admin",
+    "user_message": "tell me about the admission process",
+    "bot_response": "\ud83d\udccb General Admission Process:\n\n1. **Register Online** \u2013 Fill the application form on the college portal\n2. **Submit Documents** \u2013 Academic transcripts, ID proof, passport photos\n3. **Entrance Exam** \u2013 Appear for relevant entrance test (JEE/NEET/CUET etc.) if required\n4. **Merit List** \u2013 Check cutoff and merit list on the college website\n5. **Counseling** \u2013 Attend counseling/interview session\n6. **Fee Payment** \u2013 Pay the admission fee within the deadline\n7. **Document Verification** \u2013 Submit original documents for verification\n\nTip: Always check the college's official website for exact deadlines!",
+    "intent": "admission_process",
+    "confidence": 0.9245
+  },
+  {
+    "timestamp": "2026-05-12 15:10:34",
+    "username": "admin",
+    "user_message": "Attendance requirements",
+    "bot_response": "\ud83d\udccb Attendance Policy:\n\n**Minimum Required Attendance:** 75% in most colleges (some require 85%)\n\n**Consequences of Low Attendance:**\n\u2022 Below 75% \u2192 Debarred from appearing in semester exams\n\u2022 65\u201374% \u2192 Condonation possible with medical/valid reason (at college's discretion)\n\u2022 Below 65% \u2192 Typically detained (must repeat the semester)\n\n**Attendance Calculation:**\n```\nAttendance % = (Classes Attended / Total Classes Held) \u00d7 100\n```\n\n**Tips to Maintain Attendance:**\n\u2705 Check attendance regularly on the student portal\n\u2705 Apply for medical leave with a doctor's certificate immediately\n\u2705 Meet your class teacher/mentor if you're approaching the shortage threshold\n\n\u26a0\ufe0f Sports/cultural events, NCC/NSS activities may grant attendance as per college policy.",
+    "intent": "attendance",
+    "confidence": 0.777
+  },
+  {
+    "timestamp": "2026-05-12 15:16:02",
+    "username": "admin",
+    "user_message": "hello",
+    "bot_response": "Hey! Great to see you. Ask me anything about college life, admissions, or academics!",
+    "intent": "greeting",
+    "confidence": 0.9177
+  },
+  {
+    "timestamp": "2026-05-12 15:16:19",
+    "username": "admin",
+    "user_message": "How to apply for admission?",
+    "bot_response": "\ud83d\udccb General Admission Process:\n\n1. **Register Online** \u2013 Fill the application form on the college portal\n2. **Submit Documents** \u2013 Academic transcripts, ID proof, passport photos\n3. **Entrance Exam** \u2013 Appear for relevant entrance test (JEE/NEET/CUET etc.) if required\n4. **Merit List** \u2013 Check cutoff and merit list on the college website\n5. **Counseling** \u2013 Attend counseling/interview session\n6. **Fee Payment** \u2013 Pay the admission fee within the deadline\n7. **Document Verification** \u2013 Submit original documents for verification\n\nTip: Always check the college's official website for exact deadlines!",
+    "intent": "admission_process",
+    "confidence": 0.7199
+  },
+  {
+    "timestamp": "2026-05-13 09:45:50",
+    "username": "admin",
+    "user_message": "hello",
+    "bot_response": "Hi there! I'm your college assistant. What would you like to know?",
+    "intent": "greeting",
+    "confidence": 0.9177
+  },
+  {
+    "timestamp": "2026-05-13 09:55:07",
+    "username": "admin",
+    "user_message": "hello how to apply in admission hello hello hello hello hello hello hello hello hello hello",
+    "bot_response": "Hi there! I'm your college assistant. What would you like to know?",
+    "intent": "greeting",
+    "confidence": 0.82
+  },
+  {
+    "timestamp": "2026-05-13 10:04:54",
+    "username": "admin",
+    "user_message": "hello tell me about the hostel facilities",
+    "bot_response": "\ud83c\udfe0 Hostel Facilities & Rules:\n\n**Facilities Provided:**\n\u2705 Furnished rooms (Single/Double/Triple sharing)\n\u2705 24/7 security & CCTV surveillance\n\u2705 Wi-Fi internet access\n\u2705 Mess facility (veg + non-veg options)\n\u2705 Common room with TV\n\u2705 Indoor games (TT, carom, chess)\n\u2705 Laundry facility\n\u2705 Medical room / first aid\n\u2705 Visitor room\n\n**Common Hostel Rules:**\n\u2022 Curfew: Boys \u2013 10 PM, Girls \u2013 9 PM (varies by college)\n\u2022 Visitors allowed only in visitor areas during specified hours\n\u2022 No alcohol, smoking, or ragging \u2014 strict action taken\n\u2022 Maintain cleanliness & noise discipline\n\u2022 Visitors of opposite gender not allowed in rooms\n\n**Admission to Hostel:**\nFill the hostel application form during college admission. Allotment is usually on a first-come, first-served or merit basis.",
+    "intent": "hostel_facilities",
+    "confidence": 0.7139
+  },
+  {
+    "timestamp": "2026-05-17 11:58:30",
+    "username": "student1",
+    "user_message": "hello tell me about the admission",
+    "bot_response": "Hey! Great to see you. Ask me anything about college life, admissions, or academics!",
+    "intent": "greeting",
+    "confidence": 0.3383
+  },
+  {
+    "timestamp": "2026-05-17 11:58:58",
+    "username": "student1",
+    "user_message": "how to apply for admission",
+    "bot_response": "\ud83d\udccb General Admission Process:\n\n1. **Register Online** \u2013 Fill the application form on the college portal\n2. **Submit Documents** \u2013 Academic transcripts, ID proof, passport photos\n3. **Entrance Exam** \u2013 Appear for relevant entrance test (JEE/NEET/CUET etc.) if required\n4. **Merit List** \u2013 Check cutoff and merit list on the college website\n5. **Counseling** \u2013 Attend counseling/interview session\n6. **Fee Payment** \u2013 Pay the admission fee within the deadline\n7. **Document Verification** \u2013 Submit original documents for verification\n\nTip: Always check the college's official website for exact deadlines!",
+    "intent": "admission_process",
+    "confidence": 0.7199
+  },
+  {
+    "timestamp": "2026-05-17 12:00:18",
+    "username": "student1",
+    "user_message": "Tell me about hostel facilities",
+    "bot_response": "\ud83c\udfe0 Hostel Facilities & Rules:\n\n**Facilities Provided:**\n\u2705 Furnished rooms (Single/Double/Triple sharing)\n\u2705 24/7 security & CCTV surveillance\n\u2705 Wi-Fi internet access\n\u2705 Mess facility (veg + non-veg options)\n\u2705 Common room with TV\n\u2705 Indoor games (TT, carom, chess)\n\u2705 Laundry facility\n\u2705 Medical room / first aid\n\u2705 Visitor room\n\n**Common Hostel Rules:**\n\u2022 Curfew: Boys \u2013 10 PM, Girls \u2013 9 PM (varies by college)\n\u2022 Visitors allowed only in visitor areas during specified hours\n\u2022 No alcohol, smoking, or ragging \u2014 strict action taken\n\u2022 Maintain cleanliness & noise discipline\n\u2022 Visitors of opposite gender not allowed in rooms\n\n**Admission to Hostel:**\nFill the hostel application form during college admission. Allotment is usually on a first-come, first-served or merit basis.",
+    "intent": "hostel_facilities",
+    "confidence": 0.8284
+  },
+  {
+    "timestamp": "2026-05-17 12:30:32",
+    "username": "admin",
+    "user_message": "hello tell me about the college admission",
+    "bot_response": "\ud83d\udccb General Admission Process:\n\n1. **Register Online** \u2013 Fill the application form on the college portal\n2. **Submit Documents** \u2013 Academic transcripts, ID proof, passport photos\n3. **Entrance Exam** \u2013 Appear for relevant entrance test (JEE/NEET/CUET etc.) if required\n4. **Merit List** \u2013 Check cutoff and merit list on the college website\n5. **Counseling** \u2013 Attend counseling/interview session\n6. **Fee Payment** \u2013 Pay the admission fee within the deadline\n7. **Document Verification** \u2013 Submit original documents for verification\n\nTip: Always check the college's official website for exact deadlines!",
+    "intent": "admission_process",
+    "confidence": 0.2701
+  },
+  {
+    "timestamp": "2026-05-17 12:30:45",
+    "username": "admin",
+    "user_message": "tell me about the fee structure of every courses",
+    "bot_response": "\ud83d\udcb0 General Fee Structure (Approximate Annual Fees \u2014 India):\n\n| Program | Government College | Private College |\n|---------|-------------------|------------------|\n| B.Tech/BE | \u20b950,000 \u2013 \u20b91.5L | \u20b980,000 \u2013 \u20b94L |\n| MBBS | \u20b915,000 \u2013 \u20b91L | \u20b910L \u2013 \u20b925L |\n| MBA | \u20b930,000 \u2013 \u20b980,000 | \u20b93L \u2013 \u20b920L |\n| BCA/BBA/B.Com | \u20b920,000 \u2013 \u20b950,000 | \u20b950,000 \u2013 \u20b91.5L |\n| M.Tech | \u20b930,000 \u2013 \u20b980,000 | \u20b91L \u2013 \u20b93L |\n| B.Sc | \u20b910,000 \u2013 \u20b930,000 | \u20b930,000 \u2013 \u20b91L |\n\n*Fees include tuition, development charges & exam fee. Hostel, mess & transport are additional.*",
+    "intent": "fee_structure",
+    "confidence": 0.7056
+  },
+  {
+    "timestamp": "2026-05-17 12:30:58",
+    "username": "admin",
+    "user_message": "tell me about the hostel and mess fees",
+    "bot_response": "\ud83c\udfe0 Hostel & Accommodation Fees (Approximate):\n\n| Type | Annual Cost |\n|------|-------------|\n| Double-sharing room | \u20b940,000 \u2013 \u20b980,000 |\n| Triple-sharing room | \u20b925,000 \u2013 \u20b955,000 |\n| Single room | \u20b970,000 \u2013 \u20b91.5L |\n| Mess charges (meals) | \u20b925,000 \u2013 \u20b950,000/year |\n\n**Included in most hostel fees:**\n\u2705 Furnished room (bed, table, chair, wardrobe)\n\u2705 24/7 security\n\u2705 Wi-Fi connectivity\n\u2705 Common bathrooms / attached bathroom (single rooms)\n\n*Exact fees vary by college. Contact the hostel warden or admin office for official rates.*",
+    "intent": "hostel_fees",
+    "confidence": 0.488
+  },
+  {
+    "timestamp": "2026-05-17 12:31:10",
+    "username": "admin",
+    "user_message": "tell me about the attendance criteria in this college",
+    "bot_response": "\ud83d\udccb Attendance Policy:\n\n**Minimum Required Attendance:** 75% in most colleges (some require 85%)\n\n**Consequences of Low Attendance:**\n\u2022 Below 75% \u2192 Debarred from appearing in semester exams\n\u2022 65\u201374% \u2192 Condonation possible with medical/valid reason (at college's discretion)\n\u2022 Below 65% \u2192 Typically detained (must repeat the semester)\n\n**Attendance Calculation:**\n```\nAttendance % = (Classes Attended / Total Classes Held) \u00d7 100\n```\n\n**Tips to Maintain Attendance:**\n\u2705 Check attendance regularly on the student portal\n\u2705 Apply for medical leave with a doctor's certificate immediately\n\u2705 Meet your class teacher/mentor if you're approaching the shortage threshold\n\n\u26a0\ufe0f Sports/cultural events, NCC/NSS activities may grant attendance as per college policy.",
+    "intent": "attendance",
+    "confidence": 0.8035
+  },
+  {
+    "timestamp": "2026-05-17 12:41:23",
+    "username": "chumchum",
+    "user_message": "hii",
+    "bot_response": "hello",
+    "intent": "admin_learned",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2026-05-17 12:42:46",
+    "username": "chumchum",
+    "user_message": "tell me about the admission progess",
+    "bot_response": "\ud83d\udccb General Admission Process:\n\n1. **Register Online** \u2013 Fill the application form on the college portal\n2. **Submit Documents** \u2013 Academic transcripts, ID proof, passport photos\n3. **Entrance Exam** \u2013 Appear for relevant entrance test (JEE/NEET/CUET etc.) if required\n4. **Merit List** \u2013 Check cutoff and merit list on the college website\n5. **Counseling** \u2013 Attend counseling/interview session\n6. **Fee Payment** \u2013 Pay the admission fee within the deadline\n7. **Document Verification** \u2013 Submit original documents for verification\n\nTip: Always check the college's official website for exact deadlines!",
+    "intent": "admission_process",
+    "confidence": 0.6477
+  },
+  {
+    "timestamp": "2026-05-17 12:47:53",
+    "username": "komal anand",
+    "user_message": "helooo",
+    "bot_response": "Hmm, I didn't quite catch that! \ud83d\ude05 Could you be more specific?\n\nI'm best at answering questions about college \u2014 admissions, academics, facilities, placements, and student life. Give it another shot!",
+    "intent": "events_fests",
+    "confidence": 0.0405
+  },
+  {
+    "timestamp": "2026-05-17 12:59:27",
+    "username": "komal anand",
+    "user_message": "hii",
+    "bot_response": "hello",
+    "intent": "admin_learned",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2026-05-17 12:59:45",
+    "username": "komal anand",
+    "user_message": "tell me about the attendance requirement",
+    "bot_response": "\ud83d\udccb Attendance Policy:\n\n**Minimum Required Attendance:** 75% in most colleges (some require 85%)\n\n**Consequences of Low Attendance:**\n\u2022 Below 75% \u2192 Debarred from appearing in semester exams\n\u2022 65\u201374% \u2192 Condonation possible with medical/valid reason (at college's discretion)\n\u2022 Below 65% \u2192 Typically detained (must repeat the semester)\n\n**Attendance Calculation:**\n```\nAttendance % = (Classes Attended / Total Classes Held) \u00d7 100\n```\n\n**Tips to Maintain Attendance:**\n\u2705 Check attendance regularly on the student portal\n\u2705 Apply for medical leave with a doctor's certificate immediately\n\u2705 Meet your class teacher/mentor if you're approaching the shortage threshold\n\n\u26a0\ufe0f Sports/cultural events, NCC/NSS activities may grant attendance as per college policy.",
+    "intent": "attendance",
+    "confidence": 0.8484
+  },
+  {
+    "timestamp": "2026-05-17 13:00:05",
+    "username": "komal anand",
+    "user_message": "tell me about how to clear the bank locks",
+    "bot_response": "Hmm, I didn't quite catch that! \ud83d\ude05 Could you be more specific?\n\nI'm best at answering questions about college \u2014 admissions, academics, facilities, placements, and student life. Give it another shot!",
+    "intent": "backlog",
+    "confidence": 0.1236
+  },
+  {
+    "timestamp": "2026-05-17 13:05:03",
+    "username": "komal anand",
+    "user_message": "hello",
+    "bot_response": "Hello! Welcome to SmartCollegeBot \ud83c\udf93 How can I help you today?",
+    "intent": "greeting",
+    "confidence": 0.9177
+  },
+  {
+    "timestamp": "2026-05-17 13:06:55",
+    "username": "komal anand",
+    "user_message": "hello tell me about the hostel facilities",
+    "bot_response": "\ud83c\udfe0 Hostel Facilities & Rules:\n\n**Facilities Provided:**\n\u2705 Furnished rooms (Single/Double/Triple sharing)\n\u2705 24/7 security & CCTV surveillance\n\u2705 Wi-Fi internet access\n\u2705 Mess facility (veg + non-veg options)\n\u2705 Common room with TV\n\u2705 Indoor games (TT, carom, chess)\n\u2705 Laundry facility\n\u2705 Medical room / first aid\n\u2705 Visitor room\n\n**Common Hostel Rules:**\n\u2022 Curfew: Boys \u2013 10 PM, Girls \u2013 9 PM (varies by college)\n\u2022 Visitors allowed only in visitor areas during specified hours\n\u2022 No alcohol, smoking, or ragging \u2014 strict action taken\n\u2022 Maintain cleanliness & noise discipline\n\u2022 Visitors of opposite gender not allowed in rooms\n\n**Admission to Hostel:**\nFill the hostel application form during college admission. Allotment is usually on a first-come, first-served or merit basis.",
+    "intent": "hostel_facilities",
+    "confidence": 0.7139
+  },
+  {
+    "timestamp": "2026-05-17 13:07:09",
+    "username": "komal anand",
+    "user_message": "how to clear the backlogs",
+    "bot_response": "\ud83d\udcdd Clearing Backlogs / Arrears:\n\n**What is a Backlog?**\nA subject you failed in the semester examination.\n\n**How to Clear It:**\n1. **Supplementary/Back Exam** \u2013 Most colleges conduct back paper exams in June\u2013July or November\u2013December\n2. **Re-Appear** \u2013 Fill the back exam form (available on student portal)\n3. **Improvement Exam** \u2013 Some universities allow improvement for low grades too\n\n**Important Rules:**\n\u2022 Number of allowed attempts varies (usually unlimited, but time-bound)\n\u2022 Maximum backlog limit for graduation: typically all subjects must be cleared within N+2 years\n\u2022 CGPA gets updated after clearing backlog\n\u2022 Some companies have a 'no active backlog' criterion for campus placements\n\n\ud83d\udca1 Consult your academic advisor or examination cell immediately after results.",
+    "intent": "backlog",
+    "confidence": 0.9157
+  },
+  {
+    "timestamp": "2026-05-17 13:07:25",
+    "username": "komal anand",
+    "user_message": "is the placement statistics",
+    "bot_response": "\ud83d\udcbc Campus Placements \u2014 What to Expect:\n\n**Typical Placement Process:**\n1. **Pre-Placement Talk (PPT)** \u2013 Company presents itself to students\n2. **Aptitude Test** \u2013 Quantitative, Verbal, Logical Reasoning\n3. **Technical Round** \u2013 Domain-specific questions (DSA, DBMS, Networks etc.)\n4. **HR Interview** \u2013 Behavioral, situational, personality questions\n5. **Offer Letter** \u2013 Selected students receive offer letters\n\n**Average Packages by Sector (India):**\n| Sector | Fresher CTC |\n|--------|-------------|\n| IT/Software | \u20b93.5L \u2013 \u20b912L |\n| Core Engineering | \u20b93L \u2013 \u20b98L |\n| MBA (Finance/Marketing) | \u20b95L \u2013 \u20b915L |\n| Government PSU | \u20b94L \u2013 \u20b912L |\n| Analytics/Data Science | \u20b95L \u2013 \u20b914L |\n\n**Top Recruiters (General):** TCS, Infosys, Wipro, Cognizant, Accenture, HCL, Amazon, Deloitte, IBM, L&T\n\n\ud83d\udca1 Prepare: LeetCode / GeeksforGeeks for coding, aptitude books (RS Aggarwal), mock interviews.",
+    "intent": "placements",
+    "confidence": 0.9177
+  },
+  {
+    "timestamp": "2026-05-17 13:24:38",
+    "username": "komal anand",
+    "user_message": "hello",
+    "bot_response": "Hello! Welcome to SmartCollegeBot \ud83c\udf93 How can I help you today?",
+    "intent": "greeting",
+    "confidence": 0.9177
+  },
+  {
+    "timestamp": "2026-05-17 13:24:48",
+    "username": "komal anand",
+    "user_message": "tell me about the fee structure",
+    "bot_response": "\ud83d\udcb0 General Fee Structure (Approximate Annual Fees \u2014 India):\n\n| Program | Government College | Private College |\n|---------|-------------------|------------------|\n| B.Tech/BE | \u20b950,000 \u2013 \u20b91.5L | \u20b980,000 \u2013 \u20b94L |\n| MBBS | \u20b915,000 \u2013 \u20b91L | \u20b910L \u2013 \u20b925L |\n| MBA | \u20b930,000 \u2013 \u20b980,000 | \u20b93L \u2013 \u20b920L |\n| BCA/BBA/B.Com | \u20b920,000 \u2013 \u20b950,000 | \u20b950,000 \u2013 \u20b91.5L |\n| M.Tech | \u20b930,000 \u2013 \u20b980,000 | \u20b91L \u2013 \u20b93L |\n| B.Sc | \u20b910,000 \u2013 \u20b930,000 | \u20b930,000 \u2013 \u20b91L |\n\n*Fees include tuition, development charges & exam fee. Hostel, mess & transport are additional.*",
+    "intent": "fee_structure",
+    "confidence": 0.8063
+  },
+  {
+    "timestamp": "2026-05-17 13:35:35",
+    "username": "komal anand",
+    "user_message": "heloo",
+    "bot_response": "\ud83e\udd14 I'm not sure I understood that. Could you rephrase your question?\n\nI can help with: Admissions, Fees, Courses, Exams, Results, Hostel, Library, Placements, Scholarships, Clubs & Events, Career Guidance, and more!\n\nTry asking something like:\n\u2022 'How to apply for admission?'\n\u2022 'What is the scholarship procedure?'\n\u2022 'Tell me about hostel facilities'",
+    "intent": "events_fests",
+    "confidence": 0.0405
+  },
+  {
+    "timestamp": "2026-05-17 13:35:40",
+    "username": "komal anand",
+    "user_message": "hello",
+    "bot_response": "Hi there! I'm your college assistant. What would you like to know?",
+    "intent": "greeting",
+    "confidence": 0.9177
+  },
+  {
+    "timestamp": "2026-05-17 13:35:42",
+    "username": "komal anand",
+    "user_message": "What are the placement statistics?",
+    "bot_response": "\ud83d\udcbc Campus Placements \u2014 What to Expect:\n\n**Typical Placement Process:**\n1. **Pre-Placement Talk (PPT)** \u2013 Company presents itself to students\n2. **Aptitude Test** \u2013 Quantitative, Verbal, Logical Reasoning\n3. **Technical Round** \u2013 Domain-specific questions (DSA, DBMS, Networks etc.)\n4. **HR Interview** \u2013 Behavioral, situational, personality questions\n5. **Offer Letter** \u2013 Selected students receive offer letters\n\n**Average Packages by Sector (India):**\n| Sector | Fresher CTC |\n|--------|-------------|\n| IT/Software | \u20b93.5L \u2013 \u20b912L |\n| Core Engineering | \u20b93L \u2013 \u20b98L |\n| MBA (Finance/Marketing) | \u20b95L \u2013 \u20b915L |\n| Government PSU | \u20b94L \u2013 \u20b912L |\n| Analytics/Data Science | \u20b95L \u2013 \u20b914L |\n\n**Top Recruiters (General):** TCS, Infosys, Wipro, Cognizant, Accenture, HCL, Amazon, Deloitte, IBM, L&T\n\n\ud83d\udca1 Prepare: LeetCode / GeeksforGeeks for coding, aptitude books (RS Aggarwal), mock interviews.",
+    "intent": "placements",
+    "confidence": 0.9177
+  },
+  {
+    "timestamp": "2026-05-17 13:35:46",
+    "username": "komal anand",
+    "user_message": "What scholarships are available?",
+    "bot_response": "\ud83c\udf93 Major Scholarships for Students in India:\n\n**Government Scholarships:**\n\u2022 **NSP (National Scholarship Portal)** \u2013 nsp.gov.in \u2014 for SC/ST/OBC/minority/merit students\n\u2022 **PM Scholarship Scheme** \u2013 for children of ex-servicemen\n\u2022 **State Government Scholarships** \u2013 vary by state\n\u2022 **Inspire Scholarship** \u2013 for science students, \u20b980,000/year\n\u2022 **AICTE Pragati & Saksham** \u2013 for girl students / PwD in technical education\n\n**College-level:**\n\u2022 Merit-based fee waivers (top rankers in entrance exams)\n\u2022 Sports quota scholarships\n\u2022 Need-based financial assistance\n\n**Education Loans:**\n\u2022 SBI Scholar Loan, HDFC Credila, Axis Bank \u2014 up to \u20b940L\n\u2022 Moratorium during study period\n\n\ud83d\udca1 Tip: Apply on NSP portal early \u2014 deadlines are usually October\u2013November.",
+    "intent": "scholarships",
+    "confidence": 0.9417
+  },
+  {
+    "timestamp": "2026-05-17 13:43:20",
+    "username": "komal anand",
+    "user_message": "How to apply for admission?",
+    "bot_response": "\ud83d\udccb General Admission Process:\n\n1. **Register Online** \u2013 Fill the application form on the college portal\n2. **Submit Documents** \u2013 Academic transcripts, ID proof, passport photos\n3. **Entrance Exam** \u2013 Appear for relevant entrance test (JEE/NEET/CUET etc.) if required\n4. **Merit List** \u2013 Check cutoff and merit list on the college website\n5. **Counseling** \u2013 Attend counseling/interview session\n6. **Fee Payment** \u2013 Pay the admission fee within the deadline\n7. **Document Verification** \u2013 Submit original documents for verification\n\nTip: Always check the college's official website for exact deadlines!",
+    "intent": "admission_process",
+    "confidence": 0.7199
+  },
+  {
+    "timestamp": "2026-05-17 13:43:50",
+    "username": "komal anand",
+    "user_message": "Attendance requirements",
+    "bot_response": "\ud83d\udccb Attendance Policy:\n\n**Minimum Required Attendance:** 75% in most colleges (some require 85%)\n\n**Consequences of Low Attendance:**\n\u2022 Below 75% \u2192 Debarred from appearing in semester exams\n\u2022 65\u201374% \u2192 Condonation possible with medical/valid reason (at college's discretion)\n\u2022 Below 65% \u2192 Typically detained (must repeat the semester)\n\n**Attendance Calculation:**\n```\nAttendance % = (Classes Attended / Total Classes Held) \u00d7 100\n```\n\n**Tips to Maintain Attendance:**\n\u2705 Check attendance regularly on the student portal\n\u2705 Apply for medical leave with a doctor's certificate immediately\n\u2705 Meet your class teacher/mentor if you're approaching the shortage threshold\n\n\u26a0\ufe0f Sports/cultural events, NCC/NSS activities may grant attendance as per college policy.",
+    "intent": "attendance",
+    "confidence": 0.777
+  },
+  {
+    "timestamp": "2026-05-17 13:49:29",
+    "username": "komal anand",
+    "user_message": "tell me about the backlogs",
+    "bot_response": "\ud83d\udcdd Clearing Backlogs / Arrears:\n\n**What is a Backlog?**\nA subject you failed in the semester examination.\n\n**How to Clear It:**\n1. **Supplementary/Back Exam** \u2013 Most colleges conduct back paper exams in June\u2013July or November\u2013December\n2. **Re-Appear** \u2013 Fill the back exam form (available on student portal)\n3. **Improvement Exam** \u2013 Some universities allow improvement for low grades too\n\n**Important Rules:**\n\u2022 Number of allowed attempts varies (usually unlimited, but time-bound)\n\u2022 Maximum backlog limit for graduation: typically all subjects must be cleared within N+2 years\n\u2022 CGPA gets updated after clearing backlog\n\u2022 Some companies have a 'no active backlog' criterion for campus placements\n\n\ud83d\udca1 Consult your academic advisor or examination cell immediately after results.",
+    "intent": "backlog",
+    "confidence": 0.6764
+  },
+  {
+    "timestamp": "2026-05-17 13:49:35",
+    "username": "komal anand",
+    "user_message": "What are the placement statistics?",
+    "bot_response": "\ud83d\udcbc Campus Placements \u2014 What to Expect:\n\n**Typical Placement Process:**\n1. **Pre-Placement Talk (PPT)** \u2013 Company presents itself to students\n2. **Aptitude Test** \u2013 Quantitative, Verbal, Logical Reasoning\n3. **Technical Round** \u2013 Domain-specific questions (DSA, DBMS, Networks etc.)\n4. **HR Interview** \u2013 Behavioral, situational, personality questions\n5. **Offer Letter** \u2013 Selected students receive offer letters\n\n**Average Packages by Sector (India):**\n| Sector | Fresher CTC |\n|--------|-------------|\n| IT/Software | \u20b93.5L \u2013 \u20b912L |\n| Core Engineering | \u20b93L \u2013 \u20b98L |\n| MBA (Finance/Marketing) | \u20b95L \u2013 \u20b915L |\n| Government PSU | \u20b94L \u2013 \u20b912L |\n| Analytics/Data Science | \u20b95L \u2013 \u20b914L |\n\n**Top Recruiters (General):** TCS, Infosys, Wipro, Cognizant, Accenture, HCL, Amazon, Deloitte, IBM, L&T\n\n\ud83d\udca1 Prepare: LeetCode / GeeksforGeeks for coding, aptitude books (RS Aggarwal), mock interviews.",
+    "intent": "placements",
+    "confidence": 0.9177
+  },
+  {
+    "timestamp": "2026-05-17 13:49:40",
+    "username": "komal anand",
+    "user_message": "Attendance requirements",
+    "bot_response": "\ud83d\udccb Attendance Policy:\n\n**Minimum Required Attendance:** 75% in most colleges (some require 85%)\n\n**Consequences of Low Attendance:**\n\u2022 Below 75% \u2192 Debarred from appearing in semester exams\n\u2022 65\u201374% \u2192 Condonation possible with medical/valid reason (at college's discretion)\n\u2022 Below 65% \u2192 Typically detained (must repeat the semester)\n\n**Attendance Calculation:**\n```\nAttendance % = (Classes Attended / Total Classes Held) \u00d7 100\n```\n\n**Tips to Maintain Attendance:**\n\u2705 Check attendance regularly on the student portal\n\u2705 Apply for medical leave with a doctor's certificate immediately\n\u2705 Meet your class teacher/mentor if you're approaching the shortage threshold\n\n\u26a0\ufe0f Sports/cultural events, NCC/NSS activities may grant attendance as per college policy.",
+    "intent": "attendance",
+    "confidence": 0.777
+  },
+  {
+    "timestamp": "2026-05-17 13:49:53",
+    "username": "komal anand",
+    "user_message": "Tell me about hostel facilities",
+    "bot_response": "\ud83c\udfe0 Hostel Facilities & Rules:\n\n**Facilities Provided:**\n\u2705 Furnished rooms (Single/Double/Triple sharing)\n\u2705 24/7 security & CCTV surveillance\n\u2705 Wi-Fi internet access\n\u2705 Mess facility (veg + non-veg options)\n\u2705 Common room with TV\n\u2705 Indoor games (TT, carom, chess)\n\u2705 Laundry facility\n\u2705 Medical room / first aid\n\u2705 Visitor room\n\n**Common Hostel Rules:**\n\u2022 Curfew: Boys \u2013 10 PM, Girls \u2013 9 PM (varies by college)\n\u2022 Visitors allowed only in visitor areas during specified hours\n\u2022 No alcohol, smoking, or ragging \u2014 strict action taken\n\u2022 Maintain cleanliness & noise discipline\n\u2022 Visitors of opposite gender not allowed in rooms\n\n**Admission to Hostel:**\nFill the hostel application form during college admission. Allotment is usually on a first-come, first-served or merit basis.",
+    "intent": "hostel_facilities",
+    "confidence": 0.8284
+  },
+  {
+    "timestamp": "2026-05-17 13:53:09",
+    "username": "komal anand",
+    "user_message": "What scholarships are available?",
+    "bot_response": "\ud83c\udf93 Major Scholarships for Students in India:\n\n**Government Scholarships:**\n\u2022 **NSP (National Scholarship Portal)** \u2013 nsp.gov.in \u2014 for SC/ST/OBC/minority/merit students\n\u2022 **PM Scholarship Scheme** \u2013 for children of ex-servicemen\n\u2022 **State Government Scholarships** \u2013 vary by state\n\u2022 **Inspire Scholarship** \u2013 for science students, \u20b980,000/year\n\u2022 **AICTE Pragati & Saksham** \u2013 for girl students / PwD in technical education\n\n**College-level:**\n\u2022 Merit-based fee waivers (top rankers in entrance exams)\n\u2022 Sports quota scholarships\n\u2022 Need-based financial assistance\n\n**Education Loans:**\n\u2022 SBI Scholar Loan, HDFC Credila, Axis Bank \u2014 up to \u20b940L\n\u2022 Moratorium during study period\n\n\ud83d\udca1 Tip: Apply on NSP portal early \u2014 deadlines are usually October\u2013November.",
+    "intent": "scholarships",
+    "confidence": 0.9417
+  },
+  {
+    "timestamp": "2026-05-17 13:53:13",
+    "username": "komal anand",
+    "user_message": "What scholarships are available?",
+    "bot_response": "\ud83c\udf93 Major Scholarships for Students in India:\n\n**Government Scholarships:**\n\u2022 **NSP (National Scholarship Portal)** \u2013 nsp.gov.in \u2014 for SC/ST/OBC/minority/merit students\n\u2022 **PM Scholarship Scheme** \u2013 for children of ex-servicemen\n\u2022 **State Government Scholarships** \u2013 vary by state\n\u2022 **Inspire Scholarship** \u2013 for science students, \u20b980,000/year\n\u2022 **AICTE Pragati & Saksham** \u2013 for girl students / PwD in technical education\n\n**College-level:**\n\u2022 Merit-based fee waivers (top rankers in entrance exams)\n\u2022 Sports quota scholarships\n\u2022 Need-based financial assistance\n\n**Education Loans:**\n\u2022 SBI Scholar Loan, HDFC Credila, Axis Bank \u2014 up to \u20b940L\n\u2022 Moratorium during study period\n\n\ud83d\udca1 Tip: Apply on NSP portal early \u2014 deadlines are usually October\u2013November.",
+    "intent": "scholarships",
+    "confidence": 0.9417
+  },
+  {
+    "timestamp": "2026-05-18 12:34:39",
+    "username": "komal anand",
+    "user_message": "How to check my result?",
+    "bot_response": "\ud83d\udcca How to Check Your Result:\n\n1. Visit your college/university's official website\n2. Go to the **Student Portal / Examination Section**\n3. Login with your **Enrollment Number / Registration ID**\n4. Select **Semester & Year**\n5. Download your **Grade Card / Marksheet**\n\n**Understanding Grades:**\n| Grade | Points | Meaning |\n|-------|--------|---------|\n| O | 10 | Outstanding |\n| A+ | 9 | Excellent |\n| A | 8 | Very Good |\n| B+ | 7 | Good |\n| B | 6 | Above Average |\n| C | 5 | Average |\n| F | 0 | Fail |\n\n**SGPA** = Semester Grade Point Average\n**CGPA** = Cumulative GPA across all semesters\n\n\ud83d\udca1 Worried about a result? You can apply for re-evaluation within 2 weeks of result declaration.",
+    "intent": "result",
+    "confidence": 0.9807
+  },
+  {
+    "timestamp": "2026-05-18 12:34:49",
+    "username": "komal anand",
+    "user_message": "hello",
+    "bot_response": "Hey! Great to see you. Ask me anything about college life, admissions, or academics!",
+    "intent": "greeting",
+    "confidence": 0.9177
+  },
+  {
+    "timestamp": "2026-05-18 12:34:49",
+    "username": "komal anand",
+    "user_message": "hello",
+    "bot_response": "Hello! Welcome to SmartCollegeBot \ud83c\udf93 How can I help you today?",
+    "intent": "greeting",
+    "confidence": 0.9177
+  },
+  {
+    "timestamp": "2026-05-18 12:54:05",
+    "username": "komal anand",
+    "user_message": "hi",
+    "bot_response": "hello",
+    "intent": "admin_learned",
+    "confidence": 0.8
+  },
+  {
+    "timestamp": "2026-05-18 12:54:12",
+    "username": "komal anand",
+    "user_message": "How to check my result?",
+    "bot_response": "\ud83d\udcca How to Check Your Result:\n\n1. Visit your college/university's official website\n2. Go to the **Student Portal / Examination Section**\n3. Login with your **Enrollment Number / Registration ID**\n4. Select **Semester & Year**\n5. Download your **Grade Card / Marksheet**\n\n**Understanding Grades:**\n| Grade | Points | Meaning |\n|-------|--------|---------|\n| O | 10 | Outstanding |\n| A+ | 9 | Excellent |\n| A | 8 | Very Good |\n| B+ | 7 | Good |\n| B | 6 | Above Average |\n| C | 5 | Average |\n| F | 0 | Fail |\n\n**SGPA** = Semester Grade Point Average\n**CGPA** = Cumulative GPA across all semesters\n\n\ud83d\udca1 Worried about a result? You can apply for re-evaluation within 2 weeks of result declaration.",
+    "intent": "result",
+    "confidence": 0.9807
+  },
+  {
+    "timestamp": "2026-05-19 08:41:09",
+    "username": "komal anand",
+    "user_message": "hello",
+    "bot_response": "Hey! Great to see you. Ask me anything about college life, admissions, or academics!",
+    "intent": "greeting",
+    "confidence": 0.9177
+  },
+  {
+    "timestamp": "2026-05-19 08:41:19",
+    "username": "komal anand",
+    "user_message": "What are the placement statistics?",
+    "bot_response": "\ud83d\udcbc Campus Placements \u2014 What to Expect:\n\n**Typical Placement Process:**\n1. **Pre-Placement Talk (PPT)** \u2013 Company presents itself to students\n2. **Aptitude Test** \u2013 Quantitative, Verbal, Logical Reasoning\n3. **Technical Round** \u2013 Domain-specific questions (DSA, DBMS, Networks etc.)\n4. **HR Interview** \u2013 Behavioral, situational, personality questions\n5. **Offer Letter** \u2013 Selected students receive offer letters\n\n**Average Packages by Sector (India):**\n| Sector | Fresher CTC |\n|--------|-------------|\n| IT/Software | \u20b93.5L \u2013 \u20b912L |\n| Core Engineering | \u20b93L \u2013 \u20b98L |\n| MBA (Finance/Marketing) | \u20b95L \u2013 \u20b915L |\n| Government PSU | \u20b94L \u2013 \u20b912L |\n| Analytics/Data Science | \u20b95L \u2013 \u20b914L |\n\n**Top Recruiters (General):** TCS, Infosys, Wipro, Cognizant, Accenture, HCL, Amazon, Deloitte, IBM, L&T\n\n\ud83d\udca1 Prepare: LeetCode / GeeksforGeeks for coding, aptitude books (RS Aggarwal), mock interviews.",
+    "intent": "placements",
+    "confidence": 0.9177
+  },
+  {
+    "timestamp": "2026-05-19 08:41:35",
+    "username": "komal anand",
+    "user_message": "tell me about the hostel facilities",
+    "bot_response": "\ud83c\udfe0 Hostel Facilities & Rules:\n\n**Facilities Provided:**\n\u2705 Furnished rooms (Single/Double/Triple sharing)\n\u2705 24/7 security & CCTV surveillance\n\u2705 Wi-Fi internet access\n\u2705 Mess facility (veg + non-veg options)\n\u2705 Common room with TV\n\u2705 Indoor games (TT, carom, chess)\n\u2705 Laundry facility\n\u2705 Medical room / first aid\n\u2705 Visitor room\n\n**Common Hostel Rules:**\n\u2022 Curfew: Boys \u2013 10 PM, Girls \u2013 9 PM (varies by college)\n\u2022 Visitors allowed only in visitor areas during specified hours\n\u2022 No alcohol, smoking, or ragging \u2014 strict action taken\n\u2022 Maintain cleanliness & noise discipline\n\u2022 Visitors of opposite gender not allowed in rooms\n\n**Admission to Hostel:**\nFill the hostel application form during college admission. Allotment is usually on a first-come, first-served or merit basis.",
+    "intent": "hostel_facilities",
+    "confidence": 0.8284
+  },
+  {
+    "timestamp": "2026-05-19 09:32:18",
+    "username": "komal anand",
+    "user_message": "hello",
+    "bot_response": "Hello! Welcome to SmartCollegeBot \ud83c\udf93 How can I help you today?",
+    "intent": "greeting",
+    "confidence": 0.9177
+  },
+  {
+    "timestamp": "2026-05-19 09:32:24",
+    "username": "komal anand",
+    "user_message": "how are you?",
+    "bot_response": "Hmm, I didn't quite catch that! \ud83d\ude05 Could you be more specific?\n\nI'm best at answering questions about college \u2014 admissions, academics, facilities, placements, and student life. Give it another shot!",
+    "intent": "events_fests",
+    "confidence": 0.0405
+  },
+  {
+    "timestamp": "2026-05-19 09:32:45",
+    "username": "komal anand",
+    "user_message": "How to check my result?",
+    "bot_response": "\ud83d\udcca How to Check Your Result:\n\n1. Visit your college/university's official website\n2. Go to the **Student Portal / Examination Section**\n3. Login with your **Enrollment Number / Registration ID**\n4. Select **Semester & Year**\n5. Download your **Grade Card / Marksheet**\n\n**Understanding Grades:**\n| Grade | Points | Meaning |\n|-------|--------|---------|\n| O | 10 | Outstanding |\n| A+ | 9 | Excellent |\n| A | 8 | Very Good |\n| B+ | 7 | Good |\n| B | 6 | Above Average |\n| C | 5 | Average |\n| F | 0 | Fail |\n\n**SGPA** = Semester Grade Point Average\n**CGPA** = Cumulative GPA across all semesters\n\n\ud83d\udca1 Worried about a result? You can apply for re-evaluation within 2 weeks of result declaration.",
+    "intent": "result",
+    "confidence": 0.9807
+  },
+  {
+    "timestamp": "2026-05-19 19:15:05",
+    "username": "komal anand",
+    "user_message": "helloo",
+    "bot_response": "Hmm, I didn't quite catch that! \ud83d\ude05 Could you be more specific?\n\nI'm best at answering questions about college \u2014 admissions, academics, facilities, placements, and student life. Give it another shot!",
+    "intent": "events_fests",
+    "confidence": 0.0405
+  },
+  {
+    "timestamp": "2026-05-19 19:15:09",
+    "username": "komal anand",
+    "user_message": "hello",
+    "bot_response": "Hey! Great to see you. Ask me anything about college life, admissions, or academics!",
+    "intent": "greeting",
+    "confidence": 0.9177
+  },
+  {
+    "timestamp": "2026-05-19 19:15:13",
+    "username": "komal anand",
+    "user_message": "Attendance requirements",
+    "bot_response": "\ud83d\udccb Attendance Policy:\n\n**Minimum Required Attendance:** 75% in most colleges (some require 85%)\n\n**Consequences of Low Attendance:**\n\u2022 Below 75% \u2192 Debarred from appearing in semester exams\n\u2022 65\u201374% \u2192 Condonation possible with medical/valid reason (at college's discretion)\n\u2022 Below 65% \u2192 Typically detained (must repeat the semester)\n\n**Attendance Calculation:**\n```\nAttendance % = (Classes Attended / Total Classes Held) \u00d7 100\n```\n\n**Tips to Maintain Attendance:**\n\u2705 Check attendance regularly on the student portal\n\u2705 Apply for medical leave with a doctor's certificate immediately\n\u2705 Meet your class teacher/mentor if you're approaching the shortage threshold\n\n\u26a0\ufe0f Sports/cultural events, NCC/NSS activities may grant attendance as per college policy.",
+    "intent": "attendance",
+    "confidence": 0.777
+  },
+  {
+    "timestamp": "2026-05-19 19:15:18",
+    "username": "komal anand",
+    "user_message": "How to clear backlogs?",
+    "bot_response": "\ud83d\udcdd Clearing Backlogs / Arrears:\n\n**What is a Backlog?**\nA subject you failed in the semester examination.\n\n**How to Clear It:**\n1. **Supplementary/Back Exam** \u2013 Most colleges conduct back paper exams in June\u2013July or November\u2013December\n2. **Re-Appear** \u2013 Fill the back exam form (available on student portal)\n3. **Improvement Exam** \u2013 Some universities allow improvement for low grades too\n\n**Important Rules:**\n\u2022 Number of allowed attempts varies (usually unlimited, but time-bound)\n\u2022 Maximum backlog limit for graduation: typically all subjects must be cleared within N+2 years\n\u2022 CGPA gets updated after clearing backlog\n\u2022 Some companies have a 'no active backlog' criterion for campus placements\n\n\ud83d\udca1 Consult your academic advisor or examination cell immediately after results.",
+    "intent": "backlog",
+    "confidence": 0.9157
+  },
+  {
+    "timestamp": "2026-05-25 12:29:12",
+    "username": "komal anand",
+    "user_message": "hii",
+    "bot_response": "hello",
+    "intent": "admin_learned",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2026-05-25 12:29:25",
+    "username": "komal anand",
+    "user_message": "telll me about the fees?",
+    "bot_response": "\ud83d\udcb0 General Fee Structure (Approximate Annual Fees \u2014 India):\n\n| Program | Government College | Private College |\n|---------|-------------------|------------------|\n| B.Tech/BE | \u20b950,000 \u2013 \u20b91.5L | \u20b980,000 \u2013 \u20b94L |\n| MBBS | \u20b915,000 \u2013 \u20b91L | \u20b910L \u2013 \u20b925L |\n| MBA | \u20b930,000 \u2013 \u20b980,000 | \u20b93L \u2013 \u20b920L |\n| BCA/BBA/B.Com | \u20b920,000 \u2013 \u20b950,000 | \u20b950,000 \u2013 \u20b91.5L |\n| M.Tech | \u20b930,000 \u2013 \u20b980,000 | \u20b91L \u2013 \u20b93L |\n| B.Sc | \u20b910,000 \u2013 \u20b930,000 | \u20b930,000 \u2013 \u20b91L |\n\n*Fees include tuition, development charges & exam fee. Hostel, mess & transport are additional.*",
+    "intent": "fee_structure",
+    "confidence": 0.9979
+  },
+  {
+    "timestamp": "2026-05-25 13:59:33",
+    "username": "komal anand",
+    "user_message": "hey",
+    "bot_response": "Hello! Welcome to SmartCollegeBot \ud83c\udf93 How can I help you today?",
+    "intent": "greeting",
+    "confidence": 0.9177
+  },
+  {
+    "timestamp": "2026-05-25 13:59:43",
+    "username": "komal anand",
+    "user_message": "tell me about  iit mumbai",
+    "bot_response": "\ud83e\udd16 I'm **SmartCollegeBot** \u2014 your AI-powered college assistant!\n\nI can help you with:\n\ud83d\udccb **Admissions** \u2014 Process, eligibility, documents, dates\n\ud83d\udcb0 **Fees & Scholarships** \u2014 Fee structure, financial aid, education loans\n\ud83d\udcda **Courses** \u2014 Programs available, duration, syllabus\n\ud83d\udcc5 **Academics** \u2014 Exams, results, attendance, backlogs\n\ud83c\udfe0 **Campus Life** \u2014 Hostel, cafeteria, transport, sports, clubs\n\ud83d\udcbc **Career** \u2014 Placements, internships, higher education, guidance\n\u2696\ufe0f **Student Rights** \u2014 Anti-ragging, grievances, mental health\n\nJust type your question naturally \u2014 I understand plain English! \ud83d\ude0a\n\nExample questions:\n\u2022 'How do I apply for admission?'\n\u2022 'What is the fee for B.Tech?'\n\u2022 'How do I clear my backlogs?'\n\u2022 'What clubs can I join?'",
+    "intent": "about_bot",
+    "confidence": 0.5664
+  },
+  {
+    "timestamp": "2026-05-25 14:00:45",
+    "username": "komal anand",
+    "user_message": "tell me about the lpu admissions",
+    "bot_response": "\ud83d\udccb General Admission Process:\n\n1. **Register Online** \u2013 Fill the application form on the college portal\n2. **Submit Documents** \u2013 Academic transcripts, ID proof, passport photos\n3. **Entrance Exam** \u2013 Appear for relevant entrance test (JEE/NEET/CUET etc.) if required\n4. **Merit List** \u2013 Check cutoff and merit list on the college website\n5. **Counseling** \u2013 Attend counseling/interview session\n6. **Fee Payment** \u2013 Pay the admission fee within the deadline\n7. **Document Verification** \u2013 Submit original documents for verification\n\nTip: Always check the college's official website for exact deadlines!",
+    "intent": "admission_process",
+    "confidence": 0.8145
+  },
+  {
+    "timestamp": "2026-05-25 14:01:13",
+    "username": "komal anand",
+    "user_message": "i want to take lateral entry how can i",
+    "bot_response": "See you later! Good luck with everything! \ud83c\udf93",
+    "intent": "goodbye",
+    "confidence": 0.717
+  },
+  {
+    "timestamp": "2026-05-26 14:37:00",
+    "username": "ankit chowdhary",
+    "user_message": "hey",
+    "bot_response": "Hey! Great to see you. Ask me anything about college life, admissions, or academics!",
+    "intent": "greeting",
+    "confidence": 0.9177
+  },
+  {
+    "timestamp": "2026-05-26 14:37:21",
+    "username": "ankit chowdhary",
+    "user_message": "i want to know about lpu placement rate",
+    "bot_response": "\ud83d\udcbc Campus Placements \u2014 What to Expect:\n\n**Typical Placement Process:**\n1. **Pre-Placement Talk (PPT)** \u2013 Company presents itself to students\n2. **Aptitude Test** \u2013 Quantitative, Verbal, Logical Reasoning\n3. **Technical Round** \u2013 Domain-specific questions (DSA, DBMS, Networks etc.)\n4. **HR Interview** \u2013 Behavioral, situational, personality questions\n5. **Offer Letter** \u2013 Selected students receive offer letters\n\n**Average Packages by Sector (India):**\n| Sector | Fresher CTC |\n|--------|-------------|\n| IT/Software | \u20b93.5L \u2013 \u20b912L |\n| Core Engineering | \u20b93L \u2013 \u20b98L |\n| MBA (Finance/Marketing) | \u20b95L \u2013 \u20b915L |\n| Government PSU | \u20b94L \u2013 \u20b912L |\n| Analytics/Data Science | \u20b95L \u2013 \u20b914L |\n\n**Top Recruiters (General):** TCS, Infosys, Wipro, Cognizant, Accenture, HCL, Amazon, Deloitte, IBM, L&T\n\n\ud83d\udca1 Prepare: LeetCode / GeeksforGeeks for coding, aptitude books (RS Aggarwal), mock interviews.",
+    "intent": "placements",
+    "confidence": 0.9829
+  },
+  {
+    "timestamp": "2026-05-26 15:10:19",
+    "username": "komal anand",
+    "user_message": "lovely professional university",
+    "bot_response": "\ud83c\udf0d Higher Education Options After Graduation:\n\n**In India:**\n\u2022 M.Tech/M.Sc \u2014 via GATE exam (IITs, NITs, IIITs)\n\u2022 MBA \u2014 via CAT/MAT/XAT (IIMs and top B-schools)\n\u2022 PhD \u2014 via UGC NET / CSIR / institute-specific entrance\n\n**Abroad (MS / MBA / PhD):**\n| Exam | Purpose |\n|------|---------|\n| GRE | MS/PhD in USA, Canada, Germany |\n| GMAT | MBA in USA, UK, Europe |\n| IELTS / TOEFL | English proficiency (required everywhere) |\n| SAT | UG admissions abroad |\n\n**Top Destinations:** USA \ud83c\uddfa\ud83c\uddf8 | UK \ud83c\uddec\ud83c\udde7 | Canada \ud83c\udde8\ud83c\udde6 | Germany \ud83c\udde9\ud83c\uddea | Australia \ud83c\udde6\ud83c\uddfa | Singapore \ud83c\uddf8\ud83c\uddec\n\n**Timeline for MS in USA:**\n\u2022 Start GRE/IELTS prep: ~1.5\u20132 years before intake\n\u2022 Applications: September\u2013December for Fall intake\n\u2022 Visa (F-1): April\u2013July\n\n\ud83d\udca1 Popular portals: GradCafe, Yocket, Shiksha Study Abroad",
+    "intent": "higher_education",
+    "confidence": 0.8784
+  },
+  {
+    "timestamp": "2026-05-26 15:10:21",
+    "username": "komal anand",
+    "user_message": "lovely professional university",
+    "bot_response": "\ud83c\udf0d Higher Education Options After Graduation:\n\n**In India:**\n\u2022 M.Tech/M.Sc \u2014 via GATE exam (IITs, NITs, IIITs)\n\u2022 MBA \u2014 via CAT/MAT/XAT (IIMs and top B-schools)\n\u2022 PhD \u2014 via UGC NET / CSIR / institute-specific entrance\n\n**Abroad (MS / MBA / PhD):**\n| Exam | Purpose |\n|------|---------|\n| GRE | MS/PhD in USA, Canada, Germany |\n| GMAT | MBA in USA, UK, Europe |\n| IELTS / TOEFL | English proficiency (required everywhere) |\n| SAT | UG admissions abroad |\n\n**Top Destinations:** USA \ud83c\uddfa\ud83c\uddf8 | UK \ud83c\uddec\ud83c\udde7 | Canada \ud83c\udde8\ud83c\udde6 | Germany \ud83c\udde9\ud83c\uddea | Australia \ud83c\udde6\ud83c\uddfa | Singapore \ud83c\uddf8\ud83c\uddec\n\n**Timeline for MS in USA:**\n\u2022 Start GRE/IELTS prep: ~1.5\u20132 years before intake\n\u2022 Applications: September\u2013December for Fall intake\n\u2022 Visa (F-1): April\u2013July\n\n\ud83d\udca1 Popular portals: GradCafe, Yocket, Shiksha Study Abroad",
+    "intent": "higher_education",
+    "confidence": 0.8784
+  },
+  {
+    "timestamp": "2026-05-26 15:16:30",
+    "username": "komal anand",
+    "user_message": "hello",
+    "bot_response": "Hello! Welcome to SmartCollegeBot \ud83c\udf93 How can I help you today?",
+    "intent": "greeting",
+    "confidence": 0.9177
+  },
+  {
+    "timestamp": "2026-05-26 15:16:40",
+    "username": "komal anand",
+    "user_message": "tell me about lpu fees ?",
+    "bot_response": "\ud83d\udcb0 General Fee Structure (Approximate Annual Fees \u2014 India):\n\n| Program | Government College | Private College |\n|---------|-------------------|------------------|\n| B.Tech/BE | \u20b950,000 \u2013 \u20b91.5L | \u20b980,000 \u2013 \u20b94L |\n| MBBS | \u20b915,000 \u2013 \u20b91L | \u20b910L \u2013 \u20b925L |\n| MBA | \u20b930,000 \u2013 \u20b980,000 | \u20b93L \u2013 \u20b920L |\n| BCA/BBA/B.Com | \u20b920,000 \u2013 \u20b950,000 | \u20b950,000 \u2013 \u20b91.5L |\n| M.Tech | \u20b930,000 \u2013 \u20b980,000 | \u20b91L \u2013 \u20b93L |\n| B.Sc | \u20b910,000 \u2013 \u20b930,000 | \u20b930,000 \u2013 \u20b91L |\n\n*Fees include tuition, development charges & exam fee. Hostel, mess & transport are additional.*",
+    "intent": "fee_structure",
+    "confidence": 0.9904
+  },
+  {
+    "timestamp": "2026-05-29 01:48:56",
+    "username": "komal anand",
+    "user_message": "hii",
+    "bot_response": "hello",
+    "intent": "admin_learned",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2026-05-29 01:49:04",
+    "username": "komal anand",
+    "user_message": "tell me about lpu",
+    "bot_response": "\ud83e\udd16 I'm **SmartCollegeBot** \u2014 your AI-powered college assistant!\n\nI can help you with:\n\ud83d\udccb **Admissions** \u2014 Process, eligibility, documents, dates\n\ud83d\udcb0 **Fees & Scholarships** \u2014 Fee structure, financial aid, education loans\n\ud83d\udcda **Courses** \u2014 Programs available, duration, syllabus\n\ud83d\udcc5 **Academics** \u2014 Exams, results, attendance, backlogs\n\ud83c\udfe0 **Campus Life** \u2014 Hostel, cafeteria, transport, sports, clubs\n\ud83d\udcbc **Career** \u2014 Placements, internships, higher education, guidance\n\u2696\ufe0f **Student Rights** \u2014 Anti-ragging, grievances, mental health\n\nJust type your question naturally \u2014 I understand plain English! \ud83d\ude0a\n\nExample questions:\n\u2022 'How do I apply for admission?'\n\u2022 'What is the fee for B.Tech?'\n\u2022 'How do I clear my backlogs?'\n\u2022 'What clubs can I join?'",
+    "intent": "about_bot",
+    "confidence": 0.5664
+  },
+  {
+    "timestamp": "2026-05-29 01:49:39",
+    "username": "komal anand",
+    "user_message": "compare to colleges",
+    "bot_response": "Hmm, I didn't quite catch that! \ud83d\ude05 Could you be more specific?\n\nI'm best at answering questions about college \u2014 admissions, academics, facilities, placements, and student life. Give it another shot!",
+    "intent": "events_fests",
+    "confidence": 0.0405
+  },
+  {
+    "timestamp": "2026-05-29 01:53:02",
+    "username": "komal anand",
+    "user_message": "lpu vs cu",
+    "bot_response": "Hmm, I didn't quite catch that! \ud83d\ude05 Could you be more specific?\n\nI'm best at answering questions about college \u2014 admissions, academics, facilities, placements, and student life. Give it another shot!",
+    "intent": "events_fests",
+    "confidence": 0.0405
+  },
+  {
+    "timestamp": "2026-05-29 01:57:37",
+    "username": "komal anand",
+    "user_message": "hey",
+    "bot_response": "Hi there! I'm your college assistant. What would you like to know?",
+    "intent": "greeting",
+    "confidence": 0.9177
+  },
+  {
+    "timestamp": "2026-05-29 01:57:44",
+    "username": "komal anand",
+    "user_message": "hie",
+    "bot_response": "\ud83e\udd14 I'm not sure I understood that. Could you rephrase your question?\n\nI can help with: Admissions, Fees, Courses, Exams, Results, Hostel, Library, Placements, Scholarships, Clubs & Events, Career Guidance, and more!\n\nTry asking something like:\n\u2022 'How to apply for admission?'\n\u2022 'What is the scholarship procedure?'\n\u2022 'Tell me about hostel facilities'",
+    "intent": "events_fests",
+    "confidence": 0.0405
+  },
+  {
+    "timestamp": "2026-05-29 01:58:02",
+    "username": "komal anand",
+    "user_message": "lpu vs cu",
+    "bot_response": "\ud83e\udd14 I'm not sure I understood that. Could you rephrase your question?\n\nI can help with: Admissions, Fees, Courses, Exams, Results, Hostel, Library, Placements, Scholarships, Clubs & Events, Career Guidance, and more!\n\nTry asking something like:\n\u2022 'How to apply for admission?'\n\u2022 'What is the scholarship procedure?'\n\u2022 'Tell me about hostel facilities'",
+    "intent": "events_fests",
+    "confidence": 0.0405
+  },
+  {
+    "timestamp": "2026-05-29 02:00:11",
+    "username": "komal anand",
+    "user_message": "hiiw",
+    "bot_response": "hello",
+    "intent": "admin_learned",
+    "confidence": 0.8571
+  },
+  {
+    "timestamp": "2026-05-29 02:00:14",
+    "username": "komal anand",
+    "user_message": "hii",
+    "bot_response": "hello",
+    "intent": "admin_learned",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2026-05-29 02:00:16",
+    "username": "komal anand",
+    "user_message": "hey",
+    "bot_response": "Hey! Great to see you. Ask me anything about college life, admissions, or academics!",
+    "intent": "greeting",
+    "confidence": 0.9177
+  },
+  {
+    "timestamp": "2026-05-29 02:00:26",
+    "username": "komal anand",
+    "user_message": "lpu vs cu",
+    "bot_response": "\ud83e\udd14 I'm not sure I understood that. Could you rephrase your question?\n\nI can help with: Admissions, Fees, Courses, Exams, Results, Hostel, Library, Placements, Scholarships, Clubs & Events, Career Guidance, and more!\n\nTry asking something like:\n\u2022 'How to apply for admission?'\n\u2022 'What is the scholarship procedure?'\n\u2022 'Tell me about hostel facilities'",
+    "intent": "events_fests",
+    "confidence": 0.0405
+  },
+  {
+    "timestamp": "2026-05-29 02:06:53",
+    "username": "komal anand",
+    "user_message": "hii",
+    "bot_response": "hello",
+    "intent": "admin_learned",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2026-05-29 02:07:05",
+    "username": "komal anand",
+    "user_message": "lpu vs cu",
+    "bot_response": "Hmm, I didn't quite catch that! \ud83d\ude05 Could you be more specific?\n\nI'm best at answering questions about college \u2014 admissions, academics, facilities, placements, and student life. Give it another shot!",
+    "intent": "events_fests",
+    "confidence": 0.0405
+  },
+  {
+    "timestamp": "2026-06-07 12:20:22",
+    "username": "komal anand",
+    "user_message": "How to apply for admission?",
+    "bot_response": "\ud83d\udccb General Admission Process:\n\n1. **Register Online** \u2013 Fill the application form on the college portal\n2. **Submit Documents** \u2013 Academic transcripts, ID proof, passport photos\n3. **Entrance Exam** \u2013 Appear for relevant entrance test (JEE/NEET/CUET etc.) if required\n4. **Merit List** \u2013 Check cutoff and merit list on the college website\n5. **Counseling** \u2013 Attend counseling/interview session\n6. **Fee Payment** \u2013 Pay the admission fee within the deadline\n7. **Document Verification** \u2013 Submit original documents for verification\n\nTip: Always check the college's official website for exact deadlines!",
+    "intent": "admission_process",
+    "confidence": 0.7199
+  }
+]
