@@ -19,6 +19,7 @@ streamlit run app.py
 The app opens at `http://localhost:8501`
 
 ---
+<img width="1919" height="859" alt="Screenshot 2026-06-07 152152" src="https://github.com/user-attachments/assets/3e5f7b89-df4e-40a1-9c0d-a6a84c3c311c" />
 
 ## 🔐 Demo Login Credentials
 
