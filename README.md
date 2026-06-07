@@ -30,6 +30,7 @@ The app opens at `http://localhost:8501`
 | `demo` | `demo123` | Student |
 
 ---
+<img width="1918" height="875" alt="Screenshot 2026-06-07 151948" src="https://github.com/user-attachments/assets/14b1fc11-f18b-479a-a41a-14d44833e2f6" />
 
 ## 📁 Project Structure
 
